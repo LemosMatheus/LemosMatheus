@@ -9,17 +9,19 @@
 ### 💻 Linguagens e Ferramentas
 
 <div align="left">
-  <!-- Ícones das tecnologias -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,vscode" alt="Minhas Habilidades" />
   </a>
 </div>
 
-### 📈 Minhas Estatísticas
+### 🏆 Minhas Conquistas e Estatísticas
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LemosMatheus&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemosMatheus&layout=compact&langs_count=7&theme=radical"/>
+  <!-- Troféus baseados no seu uso do GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=LemosMatheus&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do GitHub" />
+  <br><br>
+  <!-- Estatísticas de sequência de programação -->
+  <img src="https://streak-stats.demolab.com?user=LemosMatheus&theme=radical" alt="GitHub Streak" height="170" />
 </div>
 
 ### 📫 Como me encontrar
