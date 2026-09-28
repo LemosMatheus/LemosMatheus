@@ -1,18 +1,19 @@
-# Olá! Sou o Matheus Lemos 👋
+# Olá! Sou o Matheus Lemos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="35" height="35" />
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor em constante aprendizado e apaixonado por tecnologia. 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=false&vCenter=false&width=500&lines=Desenvolvedor+em+constante+aprendizado;Apaixonado+por+tecnologia;Trabalhando+no+Monster-Book" alt="Typing SVG" /></a>
 
 ### 🚀 Sobre mim
-- 🔭 Atualmente estou trabalhando em **[seu projeto atual]**
-- 🌱 Atualmente aprendendo **[tecnologias que você estuda, ex: Python, JavaScript]**
-- 👯 Procuro colaborar em **[tipo de projetos, ex: projetos open source]**
-- ⚡ Curiosidade: **[um hobby ou fato sobre você, ex: adoro jogar videogame]**
+- 🔭 Atualmente estou trabalhando em **Monster-Book**
+- 🌱 Atualmente aprendendo **Node.js + Express, React Native**
 
 ### 💻 Linguagens e Ferramentas
-<!-- Insira aqui as linguagens que você usa -->
-**Front-end:** [HTML] | [CSS] | [JavaScript]
-**Back-end:** [Python] | [Java]
-**Ferramentas:** [Git] | [VS Code]
+
+<div align="left">
+  <!-- Aqui estão os ícones interativos. Se quiser adicionar mais, basta colocar a vírgula e o nome da tecnologia no link abaixo -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,vscode" alt="Minhas Habilidades" />
+  </a>
+</div>
 
 ### 📈 Minhas Estatísticas
 
