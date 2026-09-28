@@ -14,14 +14,11 @@
   </a>
 </div>
 
-### 🏆 Minhas Conquistas e Estatísticas
+### 💡 Inspiração 
 
 <div align="center">
-  <!-- Troféus baseados no seu uso do GitHub -->
-  <img src="https://github-profile-trophy.vercel.app/?username=LemosMatheus&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do GitHub" />
-  <br><br>
-  <!-- Estatísticas de sequência de programação -->
-  <img src="https://streak-stats.demolab.com?user=LemosMatheus&theme=radical" alt="GitHub Streak" height="170" />
+  <!-- Card dinâmico de citação sobre tecnologia -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citação sobre programação" />
 </div>
 
 ### 📫 Como me encontrar
